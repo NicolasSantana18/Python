@@ -1,3 +1,4 @@
+#Temperatura de Graus Celsius para Kelvin
 for i in range(5):
     temp = float(input("Digite a temperatura em Graus Celsius"))
     temp_kelv = temp + 273
